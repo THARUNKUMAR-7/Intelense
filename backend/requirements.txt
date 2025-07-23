@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+praw
+snscrape
+newspaper3k
+feedparser
+textblob
+redis
+python-dotenv
